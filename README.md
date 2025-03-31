@@ -1,6 +1,6 @@
 # Finance Story
 
-![Finance Story Banner](docs/banner.jpg)
+[Finance Story Banner](docs/banner.jpg)
 
 ## 📌 Overview
 Finance Story is an Android application built using Java and XML that provides insights into different stocks based on PDF inputs.
