@@ -25,7 +25,7 @@ The app utilizes Firebase for PDF storage and then uses the pdf.org API to extra
 ## 📱 Screenshots
 | Home Screen | Upload PDF | Insights | Chatbot | News |
 |------------|-----------|----------|
-| ![Home & Splash Screen](docs/HomeScreen.jpg) | ![Upload](docs/upload) | ![Insights](docs/Story.jpg) | ![Chatbot](docs/chatbot1.jpg) | ![News](docs/News.jpg) |
+| [Home & Splash Screen](docs/HomeScreen.jpg) | [Upload](docs/upload) | [Insights](docs/Story.jpg) | [Chatbot](docs/chatbot1.jpg) | [News](docs/News.jpg) |
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
