@@ -1,6 +1,6 @@
 # Finance Story
 
-![Finance Story Banner](https://github.com/lal5hivam/Hackathon-IITK-main/issues/6)
+![Finance Story Banner](docs/banner.jpg)
 
 ## 📌 Overview
 Finance Story is an Android application built using Java and XML that provides insights into different stocks based on PDF inputs.
@@ -25,7 +25,7 @@ The app utilizes Firebase for PDF storage and then uses the pdf.org API to extra
 ## 📱 Screenshots
 | Home Screen | Upload PDF | Insights | Chatbot | News |
 |------------|-----------|----------|
-| ![Home & Splash Screen]((https://github.com/lal5hivam/Hackathon-IITK-main/issues/1)) | ![Upload]((https://github.com/lal5hivam/Hackathon-IITK-main/issues/2)) | ![Insights](https://github.com/lal5hivam/Hackathon-IITK-main/issues/3) | ![Chatbot](https://github.com/lal5hivam/Hackathon-IITK-main/issues/4) | ![News](https://github.com/lal5hivam/Hackathon-IITK-main/issues/5) |
+| ![Home & Splash Screen](docs/HomeScreen.jpg) | ![Upload](docs/upload) | ![Insights](docs/Story.jpg) | ![Chatbot](docs/chatbot1.jpg) | ![News](docs/News.jpg) |
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
