@@ -25,7 +25,7 @@ The app utilizes Firebase for PDF storage and then uses the pdf.org API to extra
 ## 📱 Screenshots
 | Home Screen | Upload PDF | Insights | Chatbot | News |
 |------------|-----------|----------|
-| ![Home & Splash Screen]([https://your-image-url.com](https://github.com/lal5hivam/Hackathon-IITK-main/issues/1)) | ![Upload]([https://your-image-url.com](https://github.com/lal5hivam/Hackathon-IITK-main/issues/2)) | ![Insights](https://github.com/lal5hivam/Hackathon-IITK-main/issues/3) | ![Chatbot](https://github.com/lal5hivam/Hackathon-IITK-main/issues/4) | ![News](https://github.com/lal5hivam/Hackathon-IITK-main/issues/5) |
+| ![Home & Splash Screen]((https://github.com/lal5hivam/Hackathon-IITK-main/issues/1)) | ![Upload]((https://github.com/lal5hivam/Hackathon-IITK-main/issues/2)) | ![Insights](https://github.com/lal5hivam/Hackathon-IITK-main/issues/3) | ![Chatbot](https://github.com/lal5hivam/Hackathon-IITK-main/issues/4) | ![News](https://github.com/lal5hivam/Hackathon-IITK-main/issues/5) |
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
